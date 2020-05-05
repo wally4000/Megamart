@@ -1,7 +1,7 @@
 #ifndef __COMMON_H__
 #define __COMMON_H__
 #include "SDL.h"
-#include "SDL_Image.h"
+#include "SDL_image.h"
 #include "zip_manager.h"
 #include "eh_manager.h"
 
@@ -10,10 +10,10 @@ typedef int (*MM_DrawImageFunction) (void *);
 
 #define MM_SCREEN_WIDTH        480
 #define MM_SCREEN_HEIGHT       272
-                               
+
 #define MM_EAST                  1
 #define MM_WEST                  2
-                               
+
 #define MM_LEVEL1                1
 #define MM_LEVEL2                2
 #define MM_LEVEL3                4
@@ -28,7 +28,7 @@ typedef int (*MM_DrawImageFunction) (void *);
 #define MM_STATE_GAME_OVER       3
 #define MM_STATE_MAIN_MENU       4
 #define MM_STATE_LEVEL_COMPLETE  5
-                                 
+
 #define MM_BACK_BUFFER           1
 #define MM_DRAW_BUFFER           2
 
@@ -58,5 +58,3 @@ void         MM_TakeMenuScreenshot();
 // 13 Hold
 
 #endif
-
-

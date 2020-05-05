@@ -24,9 +24,9 @@ PSPBIN = $(PSPSDK)/../bin
 CFLAGS += `$(PSPBIN)/sdl-config --cflags`
 CFLAGS += -I. -Wall -g3 -O3 -G0 -DNOUNCRYPT -DPSP_FW_VERSION=661
 
-LIBS = `$(PSPBIN)/sdl-config --libs` -lm -lSDL_ttf -lfreetype -lSDL_gfx -lSDL_image -lSDL_mixer -lpng -lz -lm -ljpeg -lpspwlan -lpspgu -lpsppower
+LIBS = `$(PSPBIN)/sdl-config --libs` -lm -lSDL_ttf -lfreetype -lSDL_gfx -lSDL_image -lSDL_mixer -lmikmod -lpng -lz -lm -ljpeg -lpspwlan -lpspgu -lpsppower
 LIBS += $(shell $(SDL_CONFIG) --libs)
-include $(PSPDEV)/lib/build.mak
+include $(PSPSDK)/lib/build.mak
 
 # Use "make pc" to build a copy of sdltest that runs on your PC.
 pc:
