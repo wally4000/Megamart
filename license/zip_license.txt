@@ -1,0 +1,3 @@
+ioapi.h/c & unzip.h/c Source files are free for all uses.
+See the Comments in the source code for more information regarding using these
+files in your projects.

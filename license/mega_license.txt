@@ -1,0 +1,84 @@
+Mega-Mart 
+or: How I learned to Stop Living in Poverty and Love the Corporation
+Official License & Terms of Use by LBG Productions
+Internationally Known & Locally Respected Since 2005
+
+Section 1 - Introduction
+This document describes the license under which you may play the Mega-Mart
+game, edit the Mega-Mart source code, and redistribute the source code
+and game.  There are always methods of circumventing copyright laws, and
+this document will not attempt to make the Mega-Mart license air tight.
+It is asked that the user abide by this license and contact the author
+if there are any questions.  You may also contact the author to request
+permission to do something no mentioned, or prohibited in this license.
+But... bear in mind the author reserves the final decision to all requests.
+
+Section 2 describes the licensing information for the game itself.
+Section 3 describes the licensing information for the source.
+Section 4 concludes the license information.
+
+Section 2 - Mega-Mart Game Licensing & Distribution Information
+  2.1 - Game Definition
+        The Mega-Mart game refers to the MegaMart eboot.pbp, data.lbg, & 
+        megalicense.txt.  True type fonts, archive support, and other
+        3rd part resources used by the game contain their own licenses
+        separate from the Mega-Mart license.  These licenses shall 
+        be adhered to.  They should also be included with all modified 
+        copies of this game (though it is the responsibility of the author 
+        who changes/re-distributes the game to ensure this).
+  2.2 - Game License
+        The user has the write to play this game under the sole provision
+        that he/she has not paid money (or any other form of payment) for
+        this game.  Mega-Mart shall remain a free download via the web
+        for all who wish to play it.  
+  2.3 - The game may be re-distributed by any entity as long 
+        as said entity does not charge for the game.  If the game is
+        bundled, the bundled package including the game must be free.
+        Subscriptions or any other trickery that would force one to "pay"
+        for access to this game are also prohibited.
+        
+Section 3 - Mega-Mart Source Licensing Information
+  3.1 - Source Definition
+        The source for the mega-mart game is divided into 4 sub sections:
+        3.2 - Source Code, 3.3 Source Graphics, 3.4 Music/Sound effects
+        3.5 Character Copyright.
+  3.2 - Source Code
+        The Mega-Mart source code may be freely distributed and edited.  The
+        distribution of the source must adhere to all rules specified in
+        section 2.3.  Users may edit the source and release new versions of
+        the game as a "mod" giving credit to the original author.  If you have
+        edited the original source to such an effect that it no longer closely
+        resembles the original source, you shall contact the author to see if
+        credit is still necessary.  Editing of the source is described as
+        adding to, removing from, or changing the original source in any way
+        shape or form.
+   3.3  Source Graphics
+        The artwork used in this game is the sole property of the author
+        and the graphic artist who created said graphic.  It may not be 
+        re-used in any other project without the expressed written consent of
+        the author or graphic creator.  
+   3.4  Music & Sound Effects
+        The music & Sound Effects are only to be used with the Mega-Mart 
+        game.  Please contact the author for information on how to contact
+        the Music/Sound effects artist for any requests or questions.
+   3.5  The character designs (names, features, etc) are the sole property
+        of the author.  These characters and designs may not be re-used
+        without the expressed written consent of the author.
+        
+        
+        
+Section 4 - Summary
+The essence of the mega-Mart License relies on 3 principals:
+  1.  The game should be distributed freely
+  2.  Credit should be given to the original authors where needed
+  3.  Permission should be requested if attempting to do something
+      outside of the aforementioned 2 rules.
+
+If you abide by the above rules, you will make the Mega-Gods happy.      
+You may contact the author (LBG Productions) with your questions or comments
+at the following email address: MegaMartManager@gmail.com.  Feel free
+to contact the author for any questions you may have concerning this license.
+
+
+        
+
