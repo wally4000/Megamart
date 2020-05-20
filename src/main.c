@@ -36,11 +36,11 @@
 #include "png.h"
 
 // SDL Libs
-#include "SDL_main.h"
-#include "SDL_thread.h"
-#include "SDL_mutex.h"
-#include "SDL_framerate.h"
-#include "SDL_mixer.h"
+#include "SDL/SDL_main.h"
+#include "SDL/SDL_thread.h"
+#include "SDL/SDL_mutex.h"
+#include "SDL/SDL_framerate.h"
+#include "SDL/SDL_mixer.h"
 
 // Proprietary Libs
 #include "common.h"

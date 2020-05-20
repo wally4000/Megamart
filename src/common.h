@@ -1,7 +1,7 @@
 #ifndef __COMMON_H__
 #define __COMMON_H__
-#include "SDL.h"
-#include "SDL_image.h"
+#include "SDL/SDL.h"
+#include "SDL/SDL_image.h"
 #include "zip_manager.h"
 #include "eh_manager.h"
 

@@ -1,7 +1,7 @@
 #ifndef __ZIP_MANAGER_H__
 #define __ZIP_MANAGER_H__
-#include "SDL_mixer.h"
-#include "SDL_ttf.h"
+#include "SDL/SDL_mixer.h"
+#include "SDL/SDL_ttf.h"
 
 #define ZIP_MAIN     1
 #define ZIP_LEVEL1   2
@@ -25,4 +25,3 @@ int         ZIP_OpenZipFile(unsigned int);
 int         ZIP_CloseZipFile();
 
 #endif
-
