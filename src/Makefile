@@ -17,6 +17,10 @@ EXTRA_TARGETS = EBOOT.PBP
 EXTRA_CLEAN = my-clean
 
 PSP_EBOOT_TITLE = Mega Mart
+PSP_EBOOT_ICON = ICON0.png
+PSP_EBOOT_PIC1 = PIC1.png
+PSP_EBOOT_SND0 = SND0.at3
+
 PSP_DIR_NAME = mm
 
 PSPSDK=$(shell psp-config --pspsdk-path)
@@ -24,7 +28,7 @@ PSPBIN = $(PSPSDK)/../bin
 CFLAGS += `$(PSPBIN)/sdl-config --cflags`
 CFLAGS += -I. -Wall -g3 -O3 -G0 -DNOUNCRYPT -DPSP_FW_VERSION=661
 
-LIBS = `$(PSPBIN)/sdl-config --libs` -lm -lSDL_ttf -lfreetype -lSDL_gfx -lSDL_image -lSDL_mixer -lmikmod -lpng -lz -lm -ljpeg -lpspwlan -lpspgu -lpsppower
+LIBS = `$(PSPBIN)/sdl-config --libs` -lm -lSDL_ttf -lfreetype -lSDL_gfx -lSDL_image -lSDL_mixer -lvorbisfile -lvorbis -logg -lmikmod -lpng -lz -lm -ljpeg -lpspwlan -lpspgu -lpsppower
 LIBS += $(shell $(SDL_CONFIG) --libs)
 include $(PSPSDK)/lib/build.mak
 
